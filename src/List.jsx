@@ -51,7 +51,7 @@ function List({ productList }) {
 
   return (
     <div>
-      List - {state?.name}
+      List - @Manh {state?.name}
       <div>
         <button onClick={() => setCount(count + 1)}>+</button>
         <h3>{count}</h3>
