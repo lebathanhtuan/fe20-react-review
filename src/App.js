@@ -1,12 +1,4 @@
-import {
-  Routes,
-  Route,
-  Link,
-  useNavigate,
-  useLocation,
-  useParams,
-} from "react-router-dom";
-import logo from "./logo.svg";
+import { Routes, Route, useNavigate } from "react-router-dom";
 import "./App.css";
 import List from "./List";
 import Detail from "./Detail";

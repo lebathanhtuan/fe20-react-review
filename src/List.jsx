@@ -14,8 +14,6 @@ function List({ productList }) {
 
   // Mounting
   useEffect(() => {
-    // Call API 1
-    // Call API 2
     console.log("Mới vào List");
 
     return () => {
